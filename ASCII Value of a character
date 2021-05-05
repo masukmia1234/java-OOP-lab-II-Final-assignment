@@ -9,7 +9,7 @@ import java.io.*;
 {
 	public static void main (String[] args)
 	{
-		 char ch = 'a';
+		 char ch = 'f';
         int ascii = ch;
         // You can also cast char to int
         int castAscii = (int) ch;
@@ -18,3 +18,9 @@ import java.io.*;
     
 	
 }
+
+
+
+
+//Output :
+//The ASCII value of f is: 102
