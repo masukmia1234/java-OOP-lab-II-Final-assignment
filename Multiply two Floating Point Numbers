@@ -1,0 +1,16 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class floating
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		 float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    
+	}
+}
